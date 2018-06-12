@@ -19,6 +19,7 @@
 			<li><a href="#">Fender</a></li>
 			<li><a href="#">Cort</a></li>
 			<li><a href="auth.php">Log in</a></li>
+			<li><a href="#">Log out</a></li>
 		</ul>
 	</div>
 	<div class="row">
