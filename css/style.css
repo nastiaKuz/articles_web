@@ -183,3 +183,8 @@ body  {
 a {
 	text-decoration: none;
 }
+
+.styleForm {
+	width: 200px;
+	margin: 10px;
+}
